@@ -41,7 +41,7 @@ git clone https://github.com/gitgyver/eos-contracts --recursive
 sudo ./install.sh
 ```
 
-
+```
 cd eosfactory
 ./build.sh ~/your_install_path/eos ~/your_install_path/contracts
 source ~/.profile
