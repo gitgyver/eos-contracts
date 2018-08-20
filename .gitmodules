@@ -1,0 +1,6 @@
+[submodule "eos"]
+	path = eos
+	url = https://github.com/gitgyver/eos
+[submodule "eosfactory"]
+	path = eosfactory
+	url = https://github.com/gitgyver/eosfactory
